@@ -82,6 +82,72 @@
 
 				}
 			]
+		},
+		{
+			"id": 5,
+			"number": "5",
+			"workout": [{
+
+				"title": "workout-2",
+				"time": 30,
+				"level": "легко",
+				"type": "силовая"
+
+			}]
+		},
+		{
+			"id": 6,
+			"number": "6",
+			"workout": [{
+
+					"title": "workout-2",
+					"time": 30,
+					"level": "легко",
+					"type": "силовая"
+
+				},
+				{
+
+					"title": "workout-1",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
+		},
+		{
+			"id": 7,
+			"number": "7",
+			"workout": [{
+
+				"title": "workout-2",
+				"time": 30,
+				"level": "легко",
+				"type": "силовая"
+
+			}]
+		},
+		{
+			"id": 8,
+			"number": "8",
+			"workout": [{
+
+					"title": "workout-2",
+					"time": 30,
+					"level": "легко",
+					"type": "силовая"
+
+				},
+				{
+
+					"title": "workout-1",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
 		}
 	]
 }
