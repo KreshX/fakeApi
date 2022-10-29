@@ -4,24 +4,84 @@
 			"number": "1",
 			"workout": [{
 
-				"title": "workout-1",
-				"time": 30,
-				"level": "легко",
-				"type": "силовая"
+					"title": "workout-1",
+					"time": 30,
+					"level": "легко",
+					"type": "силовая"
 
-			}]
+				},
+				{
+
+					"title": "workout-2",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
 		},
 		{
 			"id": 2,
-			"number": "2"
+			"number": "2",
+			"workout": [{
+
+					"title": "workout-2",
+					"time": 30,
+					"level": "легко",
+					"type": "силовая"
+
+				},
+				{
+
+					"title": "workout-1",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
 		},
 		{
 			"id": 3,
-			"number": "3"
+			"number": "3",
+			"workout": [{
+
+					"title": "workout-3",
+					"time": 30,
+					"level": "легко",
+					"type": "скоростная"
+
+				},
+				{
+
+					"title": "workout-4",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
 		},
 		{
 			"id": 4,
-			"number": "4"
+			"number": "4",
+			"workout": [{
+
+					"title": "workout-1",
+					"time": 30,
+					"level": "легко",
+					"type": "силовая"
+
+				},
+				{
+
+					"title": "workout-2",
+					"time": 40,
+					"level": "средне",
+					"type": "выносливость"
+
+				}
+			]
 		}
 	]
 }
