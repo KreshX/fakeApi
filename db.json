@@ -11,7 +11,7 @@
   {
     "id": 2,
     "date": "02.09.2021",
-    "name": "Кросовки",
+    "name": "Кроссовки",
     "preview_image": "preview.jpg",
     "full_image": "full.jpeg",
     "slider": true,
@@ -47,3 +47,4 @@
     "shortDesc": "Самое большое озеро в мире, прекрасаная природа и море эмоций",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non laoreet turpis. Donec vitae ex vitae lectus euismod sollicitudin. Ut varius vestibulum tortor quis tincidunt. Nullam laoreet, diam a tempus sagittis, neque sem dictum urna, sed congue lacus massa in massa. Curabitur hendrerit venenatis diam, et pretium purus sodales at. Vestibulum laoreet ut tellus ac faucibus. Fusce dictum lobortis lacus, ac bibendum lorem sagittis nec. Praesent vel posuere mi, a ultrices nisi. Morbi egestas quis mauris id viverra. Ut lacus enim, vulputate vitae consectetur faucibus, sollicitudin eu nisl. Proin mollis tincidunt pulvinar. Pellentesque diam elit, finibus id risus in, aliquet accumsan tellus."
   },
+]
